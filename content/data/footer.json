@@ -101,7 +101,31 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
-        }
+        },
+         {
+            "label": "Nasyifa Travel",
+            "url": "https://www.nasyifatravel.com/",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+         {
+            "label": "Update Things",
+            "url": "https://www.updatethings.com/",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
+            "label": "Belajar Dulinan Blog",
+            "url": "https://www.belajardulinanblog.my.id/",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
     ],
     "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
     "colors": "bg-dark-fg-light",
